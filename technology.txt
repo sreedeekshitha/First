@@ -2,3 +2,6 @@ welcome to technologies..
 java
 c programming
 python
+sql
+maven
+ant
